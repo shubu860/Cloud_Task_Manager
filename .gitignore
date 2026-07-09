@@ -1,0 +1,6 @@
+
+.env
+# ignore this file
+
+venv/
+# ignore the virtual environment folder if exists 
